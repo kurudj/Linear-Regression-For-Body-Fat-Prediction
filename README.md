@@ -1,4 +1,4 @@
-Linear Regression
+# Linear Regression
 
 This is one of the homeworks for the Artificial Intelligence class I took at UW-Madison in the fall of 2020. 
 
